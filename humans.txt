@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	please leave a review if you liked the course
 
 # THANKS
 
